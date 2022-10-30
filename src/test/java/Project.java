@@ -4,7 +4,6 @@ public class Project {
         int b = 2;
         int c = a/b;
         int d = a*b;
-        String s = "общее количество программистов";
         System.out.println("общее количество программистов: " + a);
         System.out.println("общее количество тестирощиков: " + b);
         System.out.println("общее количество специалистов поддержки: " + c);
